@@ -1,0 +1,11 @@
+{
+    "app": {
+        "name": "i18next",
+		"title": "Hallo Welt"
+    },
+    "nav": {
+        "home": "Zuhause ",
+        "page1": "Seite eins",
+        "page2": "Seite zwei"
+    }
+}
